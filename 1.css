@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(253, 187, 187);
+    text-align: center;
+}
+.india{
+    background-color: rgba(135, 206, 235, 0.7);
+}
+.TN{
+    background-color: rgba(228, 43, 74, 0.4);
+}
+.state{
+    background-color: rgb(69, 69, 69);
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 50px;
+    text-align: center;
+}
+.state:hover, .state:active{
+    background-color: black;
+}
